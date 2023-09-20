@@ -1,15 +1,17 @@
 {
   "dependencies": {
-    "@hexlet/immutable-fs-trees": "^0.7.1"
+    "@hexlet/immutable-fs-trees": "^0.7.1",
+    "lodash": "^4.17.21"
   },
   "name": "js-trees-solutions",
   "description": "Здесь хранятся мои решения заданий за Июнь 2023. В дальнейшем буду дополнять репо выполненными испытаниями.",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "exports": null,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type":"module",
   "keywords": [
     "hexlet",
     "trees",
