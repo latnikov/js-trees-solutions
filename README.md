@@ -4,6 +4,12 @@
 
 Это репозиторий для сохранения моего кода и последующей рефлексии, если вы студент Хекслет Колледжа и нашли его - спешу расстроить. Он никак не поможет вам в обучении, это просто архив.
 
+Для работы с кодом вам потребуется библиотека [immutable-fs-trees](https://github.com/hexlet-components/js-immutable-fs-trees)
+
+```bash
+npm install @hexlet/immutable-fs-trees
+```
+
 > [*cсылка на курс*](https://ru.hexlet.io/courses/js-trees)
 
 >[**Связаться со мной**](https://t.me/latnikov)

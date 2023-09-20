@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@hexlet/immutable-fs-trees": "^0.7.1"
+  },
+  "name": "js-trees-solutions",
+  "description": "Здесь хранятся мои решения заданий за Июнь 2023. В дальнейшем буду дополнять репо выполненными испытаниями.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexlet",
+    "trees",
+    "studies",
+    "filetrees",
+    "recursive",
+    "tree",
+    "traversal"
+  ],
+  "author": "Maxim Latnikov (@latnikov)",
+  "license": "ISC"
+}
